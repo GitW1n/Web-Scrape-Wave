@@ -30,7 +30,6 @@ def main():
         choice = input("Your choice(1/2):  ")
 
         if choice == '1':
-            # Ввод ссылок пользователем
             urls = input("Enter links (separated by commas):  ").split(',')
             urls = [url.strip() for url in urls]
             for url in urls:
