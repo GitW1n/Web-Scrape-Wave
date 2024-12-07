@@ -7,7 +7,7 @@ Support for various types of objects for parsing, such as URLs and headers.
 Checking the connection status to sites.
 Saving results in different formats (planned for the future).
 Currently in development:
-Parsing of various types of objects (texts, images, tables, etc.)
+Parsing of various types of objects.
 Support for multitasking and asynchronous parsing.
 Mechanisms for error handling and recovery from failures.
 
