@@ -1,7 +1,5 @@
 ## Web Scraper
-Status: In Development
-
-This project is a web scraper written in Python using the BeautifulSoup library. It is designed to collect data from websites based on user-provided URLs. The project is under active development and functionality is being added gradually.
+This project is a web scraper written in Python using the BeautifulSoup library. It is designed to collect data from websites based on user-provided URLs.
 
 Main features:
 Ability to enter a list of links for parsing.
