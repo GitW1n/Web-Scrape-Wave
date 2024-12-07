@@ -15,7 +15,6 @@ def start_scraping(url, object_type):
     response = requests.get(url)
     if response.status_code == 200:
         print(f"successful connection: {url}")
-        # Парсинг в зависимости от типа объектов
         data = parse_page(response.text, object_type)
         return data
     else:
