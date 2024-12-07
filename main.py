@@ -35,7 +35,7 @@ def main():
                 status = check_website_status(url)
                 print(f"Connection status for {url}: {status}")
             
-            object_type = input("Object type for parsing (eg. Header): ")
+            object_type = input("Object type for parsing (eg. headers): ")
 
             for url in urls:
                 try:
