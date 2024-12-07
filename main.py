@@ -48,6 +48,7 @@ def main():
                         print(f"Extracted {object_type}:")
                         for item in results:
                             print(f"- {item}")
+                            save_data(results)
                     else:
                         print(f"No {object_type} found on this page.")
                 except Exception as e:
