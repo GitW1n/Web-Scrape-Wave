@@ -5,7 +5,7 @@ Main features:
 Ability to enter a list of links for parsing.
 Support for various types of objects for parsing, such as URLs and headers.
 Checking the connection status to sites.
-Saving results in different formats (planned for the future).
+Saving results in different formats.
 Currently in development:
 Parsing of various types of objects.
 Support for multitasking and asynchronous parsing.
